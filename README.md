@@ -1,14 +1,33 @@
 # Opinionytics
 A simple way to view all the informations about any text out there.
 
-## Archive
+## Archives
 
 * [opinionytics](https://opinionytics.github.io/opinionytics/)
 * [opinionytics-features-python](https://opinionytics.github.io/opinionytics-features-python/)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+## Presentations
+
+* [INSA Final presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
+
+## Medias 
+
+* [DATA ET TEXT MINING A L'INSA POUR NOTRE PROJET FIL ROUGE - HACKATHON #5](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=20s)
+
+## Authors
+
+* [__Charlotte Delfosse__](https://github.com/cdel2)
+* [__Aina Rasoldier__](https://github.com/ainar)
+* [__Joan Capelle Gracia__](https://github.com/zas97)
+* [__Pierre Faure-Giovagnoli__](https://github.com/PierreFG)
+* [__Mohamed Amine Boulouma__](https://github.com/aminemboulouma)
+
+## Social Medias
+
+* [Linkedin](https://www.linkedin.com/in/opinionytics)
+* [Facebook](https://www.facebook.com/opinionytics)
+* [Github](https://www.github.com/opinionytics)
+* [Gitlab](https://www.gitlab.com/opinionytics)
+* [Instagram](https://www.instagram.com/opinionytics)
+* [Twitter](https://www.twitter.com/opinionytics)
+* [Medium](https://www.medium.com/@opinionytics)
