@@ -16,10 +16,8 @@ A simple way to view all the informations about any text out there.
 
 ## Social Medias
 
-* [Linkedin](https://www.linkedin.com/in/opinionytics)
 * [Facebook](https://www.facebook.com/opinionytics)
 * [Github](https://www.github.com/opinionytics)
-* [Gitlab](https://www.gitlab.com/opinionytics)
 * [Instagram](https://www.instagram.com/opinionytics)
 * [Twitter](https://www.twitter.com/opinionytics)
 * [Medium](https://www.medium.com/@opinionytics)
