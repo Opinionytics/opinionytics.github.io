@@ -8,7 +8,7 @@ A simple way to view all the informations about any text out there.
 
 ## Presentations
 
-* [INSA Final presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
+* [INSA presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
 
 ## Medias 
 
