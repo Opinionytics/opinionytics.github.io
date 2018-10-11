@@ -24,8 +24,8 @@ A simple way to view all the informations about any text out there.
 
 ## Authors
 
-* [Amine M.Boulouma](https://github.com/aminemboulouma)
-* [Charlotte Delfosse](https://github.com/cdel2)
-* [Joan Capelle Gracia](https://github.com/zas97)
-* [Pierre Faure-Giovagnoli](https://github.com/PierreFG)
-* [Aina Rasoldier](https://github.com/ainar)
+- [Mohamed Amine Boulouma](https://github.com/aminemboulouma)
+- [Joan Capelle Gracia](https://github.com/zas97)
+- [Charlotte Delfosse](https://github.com/cdel2)
+- [Pierre Faure-Giovagnoli](https://github.com/PierreFG)
+- [Aina Rasoldier](https://github.com/ainar)
