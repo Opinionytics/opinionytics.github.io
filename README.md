@@ -16,7 +16,7 @@ A simple way to view all the informations about any text out there.
 
 ## Medias
 
-- [🇫🇷 Data mining for Fil Rouge project in INSA de Lyon](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=20s)
+- [🇫🇷 Data mining for Fil Rouge project at INSA de Lyon](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=20s)
 - Demonstration
   ![Url analyze page](./assets/demo/Demo1.png)
   ![Result page 1](./assets/demo/Demo2.png)
@@ -24,11 +24,11 @@ A simple way to view all the informations about any text out there.
 
 ## Social Medias
 
-- [Facebook](https://www.facebook.com/opinionytics)
-- [Github](https://www.github.com/opinionytics)
-- [Instagram](https://www.instagram.com/opinionytics)
-- [Twitter](https://www.twitter.com/opinionytics)
-- [Medium](https://www.medium.com/@opinionytics)
+[Facebook](https://www.facebook.com/opinionytics),
+[Github](https://www.github.com/opinionytics),
+[Instagram](https://www.instagram.com/opinionytics),
+[Twitter](https://www.twitter.com/opinionytics),
+[Medium](https://www.medium.com/@opinionytics)
 
 ## Authors
 
