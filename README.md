@@ -4,15 +4,16 @@ A simple way to view all the informations about any text out there.
 ## Archives
 
 * [opinionytics](https://opinionytics.github.io/opinionytics/)
+The source code of Opinionytics in python and django
 * [opinionytics-features-python](https://opinionytics.github.io/opinionytics-features-python/)
-
+The source code of Opinionytics features in python
 ## Presentations
 
-* [INSA presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
-
+* [INSA Lyon presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
+The final INSA Lyon Présentation of the project
 ## Medias 
 
-* [DATA ET TEXT MINING A L'INSA POUR NOTRE PROJET FIL ROUGE - HACKATHON #5](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=20s)
+* [🇫🇷 Data mining for Fil Rouge project in INSA de Lyon](https://www.youtube.com/watch?v=e_a-t3BJk8I&t=20s)
 
 ## Social Medias
 
