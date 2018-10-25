@@ -11,7 +11,7 @@ A simple way to view all the informations about any text out there.
 
 ## Presentations
 
-- [INSA Lyon presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
+- [2018 INSA Lyon presentation](https://docs.google.com/presentation/d/1p7rV2VEuNNqn2OLQXVQ2OayprqMVt8jHkSe-yQvMwrM/edit?usp=sharing)
   The final INSA Lyon Présentation of the project
 
 ## Medias
